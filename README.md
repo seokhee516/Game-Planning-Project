@@ -1,2 +1,2 @@
-# Project1
+# Game-Planning-Project
 
